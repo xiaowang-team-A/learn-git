@@ -6,5 +6,6 @@ public class git_test {
       System.out.println("hello world");
       System.out.println("Switch version test");
       System.out.println("Brancn merge test");
+      System.out.println("master");
     }
 }
