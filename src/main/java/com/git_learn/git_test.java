@@ -8,5 +8,6 @@ public class git_test {
       System.out.println("Brancn merge test");
       System.out.println("master");
       System.out.println("Brancn1");
+      System.out.println("push test");
     }
 }
